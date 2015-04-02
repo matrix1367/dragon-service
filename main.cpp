@@ -1,19 +1,40 @@
-/* 
- * File:   main.cpp
- * Author: mbettin
- *
- * Created on 30 marca 2015, 17:00
- */
+#include <windows.h>
+#include <commctrl.h>
+#include <stdio.h>
+#include "resource.h"
 
-#include <cstdlib>
+HINSTANCE hInst;
 
-using namespace std;
+BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
+{
+    switch(uMsg)
+    {
+    case WM_INITDIALOG:
+    {
+    }
+    return TRUE;
 
-/*
- * 
- */
-int main(int argc, char** argv) {
+    case WM_CLOSE:
+    {
+        EndDialog(hwndDlg, 0);
+    }
+    return TRUE;
 
-    return 0;
+    case WM_COMMAND:
+    {
+        switch(LOWORD(wParam))
+        {
+        }
+    }
+    return TRUE;
+    }
+    return FALSE;
 }
 
+
+int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
+{
+    hInst=hInstance;
+    InitCommonControls();
+    return DialogBox(hInst, MAKEINTRESOURCE(DLG_MAIN), NULL, (DLGPROC)DlgMain);
+}
