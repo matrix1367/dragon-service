@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1408534147 source:d:\dragon\mylib\main.cpp
+	"main.h"
+
+1408534141 d:\dragon\mylib\main.h
+	<windows.h>
+	"MyLib.h"
+
+1408533673 d:\dragon\mylib\include\mylib.h
+	<string>
+
+1408533662 source:d:\dragon\mylib\src\mylib.cpp
+	"MyLib.h"
+
+1408534310 source:d:\dragon\dragon\plugins\mylib\main.cpp
+	"main.h"
+
+1408534327 d:\dragon\dragon\plugins\mylib\main.h
+	<windows.h>
+	"MyLib.h"
+
+1408537974 d:\dragon\dragon\plugins\mylib\include\mylib.h
+	<string>
+	"../../IPlugin.h"
+
+1408538079 d:\dragon\dragon\plugins\iplugin.h
+	<string>
+
+1408533662 source:d:\dragon\dragon\plugins\mylib\src\mylib.cpp
+	"MyLib.h"
+
+1412503671 source:c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\main.cpp
+	"main.h"
+
+1410368821 c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\main.h
+	<windows.h>
+	"MyLib.h"
+
+1412503671 c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\include\mylib.h
+	<string>
+	"../../IPlugin.h"
+
+1412280927 c:\users\serafin\documents\github\dragon-win\dragon\plugins\iplugin.h
+	<string>
+	<windows.h>
+
+1413062129 source:c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\src\mylib.cpp
+	"MyLib.h"
+	"CDDialog.h"
+	<cstdio>
+
+1413059448 source:c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\mylib.rc
+	<windows.h>
+	"include\CDDialog.h"
+
+1412346258 c:\users\serafin\documents\github\dragon-win\dragon\plugins\mylib\include\cddialog.h
+
+1413649985 source:d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\main.cpp
+	"main.h"
+
+1415727474 d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\main.h
+	<windows.h>
+	"MyLib.h"
+
+1415732233 d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\include\mylib.h
+	<string>
+	"IPlugin.h"
+
+1415731956 d:\moje dokumenty\github\dragon-win\dragon\plugins\iplugin.h
+	<string>
+	<windows.h>
+	"CDWraperMenagerPlugins.h"
+
+1413649985 source:d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\mylib.rc
+	<windows.h>
+	"include\CDDialog.h"
+
+1413649985 d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\include\cddialog.h
+
+1415732620 source:d:\moje dokumenty\github\dragon-win\dragon\plugins\mylib\src\mylib.cpp
+	"MyLib.h"
+	"CDDialog.h"
+	<cstdio>
+
+1415731365 d:\moje dokumenty\github\dragon-win\dragon\plugins\cdwrapermenagerplugins.h
+	<string>
+
+1428014050 source:e:\projekty\dragon-service\plugins\mylib\main.cpp
+	"main.h"
+
+1428014050 e:\projekty\dragon-service\plugins\mylib\main.h
+	<windows.h>
+	"MyLib.h"
+
+1428088755 e:\projekty\dragon-service\plugins\mylib\include\mylib.h
+	<string>
+	"IPlugin.h"
+
+1428185964 e:\projekty\dragon-service\plugins\iplugin.h
+	<string>
+	<windows.h>
+
+1428014050 source:e:\projekty\dragon-service\plugins\mylib\mylib.rc
+	<windows.h>
+	"include\CDDialog.h"
+
+1428014050 e:\projekty\dragon-service\plugins\mylib\include\cddialog.h
+
+1428087725 source:e:\projekty\dragon-service\plugins\mylib\src\mylib.cpp
+	"MyLib.h"
+	"CDDialog.h"
+	<cstdio>
+
+1428184667 source:e:\projekty\dragon-service\plugins\weather\main.cpp
+	"main.h"
+
+1428184655 e:\projekty\dragon-service\plugins\weather\main.h
+	<windows.h>
+	"MyLib.h"
+
+1428183620 e:\projekty\dragon-service\plugins\weather\include\mylib.h
+	<string>
+	"IPlugin.h"
+
+1428014050 source:e:\projekty\dragon-service\plugins\weather\mylib.rc
+	<windows.h>
+	"include\CDDialog.h"
+
+1428014050 e:\projekty\dragon-service\plugins\weather\include\cddialog.h
+
+1428185060 source:e:\projekty\dragon-service\plugins\weather\src\mylib.cpp
+	"MyLib.h"
+	"CDDialog.h"
+	<cstdio>
+

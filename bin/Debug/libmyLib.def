@@ -1,0 +1,4 @@
+EXPORTS
+    CreateObj @1
+    DeleteObj @2
+    DllMain@12 @3

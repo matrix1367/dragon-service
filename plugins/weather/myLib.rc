@@ -1,0 +1,13 @@
+#include <windows.h>
+#include "include\CDDialog.h"
+
+IDD_PASEK DIALOGEX 0, 0, 98, 52
+STYLE DS_MODALFRAME | WS_POPUP | WS_OVERLAPPEDWINDOW
+
+CAPTION "myLib"
+FONT 8, "MS Sans Serif"
+{
+    PUSHBUTTON "&Pierwszy przycisk", IDC_PRZYC1, 7, 7, 84, 14
+    PUSHBUTTON "&Drugi przycisk", IDC_PRZYC2, 7, 31, 84, 14
+    PUSHBUTTON "&Trzeci przycisk", IDC_PRZYC3, 7, 55, 84, 14
+}

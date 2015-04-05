@@ -1,0 +1,9 @@
+#ifndef CDDIALOG_H_INCLUDED
+#define CDDIALOG_H_INCLUDED
+
+#define IDD_PASEK  2000
+#define IDC_PRZYC1 201
+#define IDC_PRZYC2 202
+#define IDC_PRZYC3 203
+
+#endif // CDDIALOG_H_INCLUDED

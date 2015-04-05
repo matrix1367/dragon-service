@@ -3,3 +3,6 @@
 #endif
 
 #define DLG_MAIN                                100
+#define IDR_POPUPMENU                           101
+#define IDM_TEST                                102
+#define IDM_CLOSE                               103

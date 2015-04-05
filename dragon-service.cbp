@@ -2,26 +2,29 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="dragonService" />
+		<Option title="dragon-service" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/dragonService" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/dragon-service" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="plugins" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/dragonService" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/dragon-service" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="0" />
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -37,17 +40,33 @@
 			<Add library="kernel32" />
 			<Add library="comctl32" />
 		</Linker>
+		<Unit filename="include/CDLog.h" />
+		<Unit filename="include/CDModels.h" />
+		<Unit filename="include/CDPlugin.h" />
+		<Unit filename="include/CDSerialize.h" />
+		<Unit filename="include/CDSetting.h" />
+		<Unit filename="include/CDUntils.h" />
+		<Unit filename="include/ManagerMessager.h" />
+		<Unit filename="include/ManagerPlugins.h" />
+		<Unit filename="include/Message.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="manifest.xml" />
 		<Unit filename="resource.h" />
 		<Unit filename="resource.rc">
 			<Option compilerVar="WINDRES" />
 		</Unit>
+		<Unit filename="src/CDLog.cpp" />
+		<Unit filename="src/CDModels.cpp" />
+		<Unit filename="src/CDSerialize.cpp" />
+		<Unit filename="src/CDSetting.cpp" />
+		<Unit filename="src/CDUntils.cpp" />
+		<Unit filename="src/ManagerMessager.cpp" />
+		<Unit filename="src/ManagerPlugins.cpp" />
+		<Unit filename="src/Message.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
 			<debugger />
-			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>

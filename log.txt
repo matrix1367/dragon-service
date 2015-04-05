@@ -1,0 +1,87 @@
+[Info][GetFiles][22][04/03/15 21:42:45] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/03/15 21:42:45] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][GetFiles][22][04/03/15 21:58:06] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/03/15 21:58:06] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/03/15 21:58:06] Plugin Name:myLib
+[Info][GetFiles][22][04/04/15 01:38:13] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/04/15 01:38:13] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/04/15 01:38:13] Plugin Name:myLib
+[Info][GetFiles][22][04/04/15 23:21:51] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/04/15 23:21:51] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/04/15 23:21:51] Plugin Name:Weather
+[Info][GetFiles][22][04/04/15 23:33:27] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/04/15 23:33:27] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/04/15 23:33:27] Plugin Name:Weather
+[Info][GetFiles][22][04/05/15 00:00:39] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:00:39] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:00:39] Plugin Name:Weather
+[Info][GetFiles][22][04/05/15 00:13:48] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:13:48] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:13:48] Plugin Name:Weather
+[Info][GetFiles][22][04/05/15 00:17:13] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:17:13] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:17:13] Plugin Name:Weather
+[Info][DlgMain][54][04/05/15 00:17:17] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:18] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:19] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:21] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:22] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:22] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:24] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:25] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:26] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:26] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:27] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:28] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:28] CMSG_TRAY1
+[Info][DlgMain][54][04/05/15 00:17:29] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:31:39] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:31:39] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:31:39] Plugin Name:Weather
+[Info][DlgMain][55][04/05/15 00:31:44] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:47] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:47] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:48] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:49] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:50] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:50] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:50] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:51] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:31:51] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:37:59] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:37:59] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:37:59] Plugin Name:Weather
+[Info][DlgMain][55][04/05/15 00:38:01] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:04] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:05] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:09] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:10] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:10] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:11] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:38:44] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:38:44] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:38:44] Plugin Name:Weather
+[Info][DlgMain][55][04/05/15 00:38:46] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:48] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:38:48] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:40:01] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:40:01] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:40:01] Plugin Name:Weather
+[Info][DlgMain][55][04/05/15 00:40:04] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:40:05] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:41:21] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:41:21] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:41:22] Plugin Name:Weather
+[Info][DlgMain][55][04/05/15 00:41:23] CMSG_TRAY1
+[Info][DlgMain][55][04/05/15 00:41:27] CMSG_TRAY1
+[Info][GetFiles][22][04/05/15 00:42:34] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 00:42:34] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 00:42:34] Plugin Name:Weather
+[Info][DlgMain][59][04/05/15 00:42:36] CMSG_TRAY1
+[Info][DlgMain][47][04/05/15 00:42:39] IDM_CLOSE
+[Info][DlgMain][59][04/05/15 00:42:43] CMSG_TRAY1
+[Info][DlgMain][59][04/05/15 00:42:46] CMSG_TRAY1
+[Info][DlgMain][47][04/05/15 00:42:47] IDM_CLOSE
+[Info][GetFiles][22][04/05/15 11:05:08] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 11:05:08] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 11:05:08] Plugin Name:Weather

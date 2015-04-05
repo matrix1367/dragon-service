@@ -1,0 +1,21 @@
+[Info][WinMain][23][10/11/14 23:31:18] start application
+[Info][GetFiles][31][10/11/14 23:31:18] GetFiles:path: C:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\
+[Info][GetFiles][47][10/11/14 23:31:18] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\mBank.dll
+[Info][GetFiles][47][10/11/14 23:31:18] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\myLib.dll
+[Info][WinMain][23][10/12/14 00:14:53] start application
+[Info][GetFiles][31][10/12/14 00:14:53] GetFiles:path: C:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\
+[Info][GetFiles][47][10/12/14 00:14:53] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\mBank.dll
+[Info][GetFiles][47][10/12/14 00:14:53] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\myLib.dll
+[Info][WinMain][23][10/12/14 00:15:12] start application
+[Info][GetFiles][31][10/12/14 00:15:12] GetFiles:path: C:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\
+[Info][GetFiles][47][10/12/14 00:15:12] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\mBank.dll
+[Info][GetFiles][47][10/12/14 00:15:12] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\myLib.dll
+[Info][WinMain][23][10/12/14 00:21:57] start application
+[Info][GetFiles][31][10/12/14 00:21:57] GetFiles:path: C:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\
+[Info][GetFiles][47][10/12/14 00:21:57] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\mBank.dll
+[Info][GetFiles][47][10/12/14 00:21:57] add filenameC:\Users\serafin\Documents\GitHub\dragon-win\dragon\bin\Debug\myLib.dll
+[Info][WinMain][25][11/11/14 18:31:34] start application
+[Info][GetFiles][31][11/11/14 18:31:34] GetFiles:path: D:\Moje dokumenty\GitHub\dragon-win\dragon\bin\Debug\
+[Info][GetFiles][47][11/11/14 18:31:34] add filenameD:\Moje dokumenty\GitHub\dragon-win\dragon\bin\Debug\mBank.dll
+[Info][GetFiles][47][11/11/14 18:31:34] add filenameD:\Moje dokumenty\GitHub\dragon-win\dragon\bin\Debug\myLib.dll
+[Info][GetFiles][47][11/11/14 18:31:34] add filenameD:\Moje dokumenty\GitHub\dragon-win\dragon\bin\Debug\storage.dll
