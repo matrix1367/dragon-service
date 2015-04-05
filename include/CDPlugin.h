@@ -5,6 +5,7 @@
 
 #include <process.h>
 #include "IPLugin.h"
+#include "ControlerService.h"
 
 typedef void (__stdcall *f_DeleteObj)(IPlugin * obj);
 
@@ -84,7 +85,7 @@ public:
     }
 
     void MainPlugin() {
-        m_pluginOBJ->MainPlugin();
+        m_pluginOBJ->MainPlugin(&CDControlerService::getInstance());
     }
 
 

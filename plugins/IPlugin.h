@@ -3,6 +3,7 @@
 
 #include <string>
 #include <windows.h>
+#include "ControlerService.h"
 
 
 enum TypePlugin { TYPE_PLUGIN_GUI , TYPE_PLUGIN_BACKGROUND };
@@ -19,11 +20,11 @@ class IPlugin {
 public:
 
     virtual PluginData GetPluginData() = 0;
-    virtual void MainPlugin() = 0;
+    virtual void MainPlugin(CDControlerService* controler) = 0;
 
 protected:
-PluginData m_data;
-
+    PluginData m_data;
+    CDControlerService* m_controler;
 private:
 
 

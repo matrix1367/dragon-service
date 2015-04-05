@@ -9,7 +9,7 @@ class Weather : public IPlugin
         Weather();
         virtual ~Weather();
         void Init();
-        void MainPlugin() ;
+        void MainPlugin(CDControlerService* controler) ;
         PluginData GetPluginData();
     protected:
     private:

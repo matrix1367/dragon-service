@@ -1,21 +1,22 @@
 # depslib dependency file v1.0
-1428233330 source:e:\projekty\dragon-service\main.cpp
+1428248435 source:e:\projekty\dragon-service\main.cpp
 	<windows.h>
 	<commctrl.h>
 	<stdio.h>
 	"resource.h"
 	"CDModels.h"
+	"ControlerService.h"
 	"CDLog.h"
 
-1428228292 e:\projekty\dragon-service\resource.h
+1428237205 e:\projekty\dragon-service\resource.h
 
-1428228292 source:e:\projekty\dragon-service\resource.rc
+1428237205 source:e:\projekty\dragon-service\resource.rc
 	<windows.h>
 	<commctrl.h>
 	<richedit.h>
 	"resource.h"
 
-1428233078 source:e:\projekty\dragon-service\src\managerplugins.cpp
+1428233469 source:e:\projekty\dragon-service\src\managerplugins.cpp
 	"ManagerPlugins.h"
 	<Windows.h>
 	"IPlugin.h"
@@ -3300,14 +3301,16 @@
 1412272469 source:e:\projekty\dragon-service\src\cduntils.cpp
 	"CDUntils.h"
 
-1428232920 e:\projekty\dragon-service\include\cdplugin.h
+1428248748 e:\projekty\dragon-service\include\cdplugin.h
 	<string>
 	<process.h>
 	"IPLugin.h"
+	"ControlerService.h"
 
-1428231376 e:\projekty\dragon-service\plugins\iplugin.h
+1428248715 e:\projekty\dragon-service\plugins\iplugin.h
 	<string>
 	<windows.h>
+	"ControlerService.h"
 
 1428233112 source:e:\projekty\dragon-service\src\cdmodels.cpp
 	"CDModels.h"
@@ -3336,4 +3339,7 @@
 
 1428175859 source:e:\projekty\dragon-service\src\message.cpp
 	"Message.h"
+
+1428252298 e:\projekty\dragon-service\plugins\controlerservice.h
+	"ManagerMessager.h"
 

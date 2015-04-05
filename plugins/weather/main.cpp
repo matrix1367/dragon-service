@@ -1,3 +1,8 @@
+/*
+* APPID (API key)d5141e09f65620429bf2ac06cd2a5a2c
+*/
+
+
 #include "main.h"
 
 HINSTANCE g_hinstDLL;

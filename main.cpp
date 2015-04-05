@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include "resource.h"
 #include "CDModels.h"
+#include "ControlerService.h"
 #include "CDLog.h"
 
 #define ID_TRAY1   601
@@ -17,7 +18,8 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     case WM_INITDIALOG:
     {
         //trayicon
-        LPSTR sTip = "Dragon - service";
+        char sTipTmp[] = {"Dragon - service"};
+        LPSTR sTip = sTipTmp;
         NOTIFYICONDATA nid;
         nid.cbSize = sizeof( NOTIFYICONDATA );
         nid.hWnd = hwndDlg;
@@ -89,7 +91,9 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
 
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)
 {
+    CDControlerService::getInstance().Init();
     CDModels::getInstance().Init();
+
     hInst=hInstance;
     InitCommonControls();
     return DialogBox(hInst, MAKEINTRESOURCE(DLG_MAIN), NULL, (DLGPROC)DlgMain);

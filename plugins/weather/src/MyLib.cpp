@@ -25,9 +25,13 @@ PluginData Weather::GetPluginData() {
     return m_data;
 }
 
-void Weather::MainPlugin() {
-printf("MainPlugin in Libray.");
+void Weather::MainPlugin(CDControlerService* controler) {
+ //MessageBox( NULL, "mainPlugin", "Dragon", MB_ICONINFORMATION );
+    m_controler = controler;
 
+    CDMessage message;
+    message.SetTitle("DUPA");
+    m_controler->AddMessage(message);
 }
 
 

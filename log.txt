@@ -104,3 +104,17 @@
 [Info][GetFiles][38][04/05/15 12:31:55] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
 [Info][LoadPlugin][71][04/05/15 12:31:55] Plugin Name:Weather
 [Info][MainPlugin][109][04/05/15 12:31:55] [MainPlugin] Run.
+[Info][GetFiles][22][04/05/15 13:26:47] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 13:26:47] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 13:26:47] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 13:26:49] [MainPlugin] Run.
+[Info][GetFiles][22][04/05/15 16:40:51] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 16:40:51] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 16:40:51] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 16:40:51] [MainPlugin] Run.
+[Info][DlgMain][62][04/05/15 16:40:56] CMSG_TRAY1
+[Info][DlgMain][49][04/05/15 16:40:57] IDM_CLOSE
+[Info][GetFiles][22][04/05/15 17:35:27] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 17:35:27] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 17:35:27] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 17:35:27] [MainPlugin] Run.

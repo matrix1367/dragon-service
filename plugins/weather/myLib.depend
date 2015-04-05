@@ -96,9 +96,10 @@
 	<string>
 	"IPlugin.h"
 
-1428231376 e:\projekty\dragon-service\plugins\iplugin.h
+1428248715 e:\projekty\dragon-service\plugins\iplugin.h
 	<string>
 	<windows.h>
+	"ControlerService.h"
 
 1428014050 source:e:\projekty\dragon-service\plugins\mylib\mylib.rc
 	<windows.h>
@@ -111,14 +112,14 @@
 	"CDDialog.h"
 	<cstdio>
 
-1428184667 source:e:\projekty\dragon-service\plugins\weather\main.cpp
+1428243954 source:e:\projekty\dragon-service\plugins\weather\main.cpp
 	"main.h"
 
 1428184655 e:\projekty\dragon-service\plugins\weather\main.h
 	<windows.h>
 	"MyLib.h"
 
-1428231396 e:\projekty\dragon-service\plugins\weather\include\mylib.h
+1428247965 e:\projekty\dragon-service\plugins\weather\include\mylib.h
 	<string>
 	"IPlugin.h"
 
@@ -128,8 +129,17 @@
 
 1428014050 e:\projekty\dragon-service\plugins\weather\include\cddialog.h
 
-1428231577 source:e:\projekty\dragon-service\plugins\weather\src\mylib.cpp
+1428252395 source:e:\projekty\dragon-service\plugins\weather\src\mylib.cpp
 	"MyLib.h"
 	"CDDialog.h"
 	<cstdio>
+
+1428252298 e:\projekty\dragon-service\plugins\controlerservice.h
+	"ManagerMessager.h"
+
+1428177827 e:\projekty\dragon-service\include\managermessager.h
+	<queue>
+	"Message.h"
+
+1428170639 e:\projekty\dragon-service\include\message.h
 

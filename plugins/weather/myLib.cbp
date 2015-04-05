@@ -21,6 +21,7 @@
 					<Add option="-DBUILD_DLL" />
 					<Add directory="include" />
 					<Add directory="../../plugins" />
+					<Add directory="../../include" />
 				</Compiler>
 				<Linker>
 					<Add library="user32" />
@@ -45,6 +46,9 @@
 				</Linker>
 			</Target>
 		</Build>
+		<Unit filename="../../include/Message.h" />
+		<Unit filename="../../src/Message.cpp" />
+		<Unit filename="../ControlerService.h" />
 		<Unit filename="../IPlugin.h" />
 		<Unit filename="include/MyLib.h" />
 		<Unit filename="main.cpp" />

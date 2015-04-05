@@ -6,3 +6,4 @@
 #define IDR_POPUPMENU                           101
 #define IDM_TEST                                102
 #define IDM_CLOSE                               103
+#define IDD_DIALOG1                             104

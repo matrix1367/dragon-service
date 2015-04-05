@@ -51,6 +51,7 @@
 		<Unit filename="include/Message.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="manifest.xml" />
+		<Unit filename="plugins/ControlerService.h" />
 		<Unit filename="resource.h" />
 		<Unit filename="resource.rc">
 			<Option compilerVar="WINDRES" />
