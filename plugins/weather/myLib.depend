@@ -96,7 +96,7 @@
 	<string>
 	"IPlugin.h"
 
-1428185964 e:\projekty\dragon-service\plugins\iplugin.h
+1428231376 e:\projekty\dragon-service\plugins\iplugin.h
 	<string>
 	<windows.h>
 
@@ -118,7 +118,7 @@
 	<windows.h>
 	"MyLib.h"
 
-1428183620 e:\projekty\dragon-service\plugins\weather\include\mylib.h
+1428231396 e:\projekty\dragon-service\plugins\weather\include\mylib.h
 	<string>
 	"IPlugin.h"
 
@@ -128,7 +128,7 @@
 
 1428014050 e:\projekty\dragon-service\plugins\weather\include\cddialog.h
 
-1428185060 source:e:\projekty\dragon-service\plugins\weather\src\mylib.cpp
+1428231577 source:e:\projekty\dragon-service\plugins\weather\src\mylib.cpp
 	"MyLib.h"
 	"CDDialog.h"
 	<cstdio>

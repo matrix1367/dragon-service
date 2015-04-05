@@ -6,7 +6,7 @@ void CDModels::Init()
     menagerPlugins.LoadPlugins();
     if(CDSetting::getInstance().automaticCallMainDlL)
     {
-        //menagerPlugins.Main();
+        menagerPlugins.MainPlugin();
     }
 
 }

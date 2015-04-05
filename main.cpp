@@ -17,7 +17,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
     case WM_INITDIALOG:
     {
         //trayicon
-        LPSTR sTip = "Dragon - us³uga";
+        LPSTR sTip = "Dragon - service";
         NOTIFYICONDATA nid;
         nid.cbSize = sizeof( NOTIFYICONDATA );
         nid.hWnd = hwndDlg;
@@ -45,6 +45,7 @@ BOOL CALLBACK DlgMain(HWND hwndDlg, UINT uMsg, WPARAM wParam, LPARAM lParam)
         {
             case IDM_CLOSE: {
                 CDLog::Write( __FUNCTION__ , __LINE__, Info, "IDM_CLOSE" );
+                EndDialog(hwndDlg, 0);
                 break;
             }
         }

@@ -19,7 +19,7 @@ class IPlugin {
 public:
 
     virtual PluginData GetPluginData() = 0;
-
+    virtual void MainPlugin() = 0;
 
 protected:
 PluginData m_data;

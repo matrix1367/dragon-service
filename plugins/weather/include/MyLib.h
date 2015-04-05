@@ -9,6 +9,7 @@ class Weather : public IPlugin
         Weather();
         virtual ~Weather();
         void Init();
+        void MainPlugin() ;
         PluginData GetPluginData();
     protected:
     private:

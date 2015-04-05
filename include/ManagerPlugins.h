@@ -14,6 +14,7 @@ class CManagerPlugins
         int LoadPlugins();
         int LoadPlugin(std::string path);
         void UnLoadPlugins();
+        void MainPlugin();
     protected:
     private:
         std::vector<CDPlugin > plugins;

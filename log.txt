@@ -85,3 +85,22 @@
 [Info][GetFiles][22][04/05/15 11:05:08] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
 [Info][GetFiles][38][04/05/15 11:05:08] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
 [Info][LoadPlugin][71][04/05/15 11:05:08] Plugin Name:Weather
+[Info][GetFiles][22][04/05/15 11:31:26] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 11:31:26] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 11:31:26] Plugin Name:Weather
+[Info][DlgMain][60][04/05/15 11:31:29] CMSG_TRAY1
+[Info][DlgMain][47][04/05/15 11:31:30] IDM_CLOSE
+[Info][GetFiles][22][04/05/15 12:28:02] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 12:28:02] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 12:28:02] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 12:28:02] [MainPlugin] Could not unload the dynamic library.
+[Info][GetFiles][22][04/05/15 12:30:09] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 12:30:09] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 12:30:09] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 12:30:09] [MainPlugin] Could not unload the dynamic library.
+[Info][DlgMain][60][04/05/15 12:30:18] CMSG_TRAY1
+[Info][DlgMain][47][04/05/15 12:30:20] IDM_CLOSE
+[Info][GetFiles][22][04/05/15 12:31:55] GetFiles:path: E:\projekty\dragon-service\bin\Debug\
+[Info][GetFiles][38][04/05/15 12:31:55] add filenameE:\projekty\dragon-service\bin\Debug\myLib.dll
+[Info][LoadPlugin][71][04/05/15 12:31:55] Plugin Name:Weather
+[Info][MainPlugin][109][04/05/15 12:31:55] [MainPlugin] Run.

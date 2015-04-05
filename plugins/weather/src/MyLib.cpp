@@ -25,6 +25,10 @@ PluginData Weather::GetPluginData() {
     return m_data;
 }
 
+void Weather::MainPlugin() {
+printf("MainPlugin in Libray.");
+
+}
 
 
 

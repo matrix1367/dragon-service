@@ -83,6 +83,10 @@ public:
         return true;
     }
 
+    void MainPlugin() {
+        m_pluginOBJ->MainPlugin();
+    }
+
 
 
 

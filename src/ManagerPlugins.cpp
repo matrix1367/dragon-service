@@ -101,3 +101,11 @@ void CManagerPlugins::UnLoadPlugins()
         }
     }
 }
+
+void CManagerPlugins::MainPlugin(void) {
+    for(std::vector<CDPlugin>::size_type i = 0 ; i != plugins.size(); i++)
+    {
+        plugins[i].MainPlugin();
+        CDLog::Write( __FUNCTION__ , __LINE__, Info, "[MainPlugin] Run." );
+    }
+}
